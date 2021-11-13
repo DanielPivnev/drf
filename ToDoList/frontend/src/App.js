@@ -52,7 +52,7 @@ class App extends React.Component {
                         'footC': footC
                     }
                 )
-            }).catch(e > console.error(e))
+            }).catch(e => {console.log(e)})
     }
 
     render() {
