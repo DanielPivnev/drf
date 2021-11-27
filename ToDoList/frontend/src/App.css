@@ -1,0 +1,24 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.nav-color {
+  background-color: #e3f2fd;
+}
+
+.users {
+  display: flex;
+  justify-content: center;
+}
+
+.user {
+  min-width: 300px;
+  margin: 40px;
+}
+
+.footerH {
+   background-color: rgba(0, 0, 0, 0.2);
+}
